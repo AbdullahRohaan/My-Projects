@@ -1,1 +1,3 @@
+Rock–Paper–Scissors Game (C Program)
 
+This C program implements a simple Stone–Paper–Scissors game where the user plays against the computer. The computer’s choice is generated randomly using the rand() function seeded with the current system time to ensure different outcomes on each run. The user selects an option using character input (s for Stone, p for Paper, and z for Scissor), and the program compares both choices using a dedicated game logic function. Based on standard game rules, the program determines whether the result is a win, loss, or draw and displays the outcome along with both selections. This project demonstrates the use of conditional logic, functions, random number generation, and basic input/output operations in C.
