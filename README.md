@@ -10,6 +10,10 @@ An AI-driven pipeline that improves video accessibility by enhancing audio quali
 ### Rock Paper Scissors Game (C)
 A console-based implementation of the classic Rock Paper Scissors game using C, demonstrating core programming logic, conditional statements, and random number generation.
 
+### Python Calculator
+A professional, menu-driven calculator application developed using Python. The project supports both basic and advanced mathematical operations and is designed with proper input validation and error handling to ensure reliable execution. It demonstrates clean function-based programming, use of standard libraries, and building interactive command-line applications.
+
+
 ## 🛠 Tech Stack
 - Python
 - Machine Learning & AI
