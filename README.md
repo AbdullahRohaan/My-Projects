@@ -3,6 +3,9 @@
 This repository contains a collection of selected projects demonstrating my hands-on experience in Python programming, data science, machine learning, and AI-based systems. The projects range from simple logic-based applications to end-to-end AI pipelines.
 
 ## 🚀 Featured Project
+### Agentic RAG System
+A production-oriented Agentic Retrieval-Augmented Generation (RAG) system designed to intelligently route user queries across semantic retrieval, computation, and LLM-based reasoning workflows. The system integrates a FastAPI backend, persistent vector storage (ChromaDB), and transformer-based embeddings to reduce hallucinations and enable context-aware multi-domain interactions.
+
 ### Multilingual Video Enhancement System
 An AI-driven pipeline that improves video accessibility by enhancing audio quality, converting speech to text, and translating content into multiple languages using Python-based AI techniques.
 
@@ -15,11 +18,14 @@ A professional, menu-driven calculator application developed using Python. The p
 
 
 ## 🛠 Tech Stack
-- Python
-- Machine Learning & AI
-- Natural Language Processing (NLP)
-- Audio & Video Processing
-- C Programming
+-Python
+-FastAPI
+-Machine Learning & AI
+-Generative AI & LLM Systems
+-Natural Language Processing (NLP)
+-ChromaDB (Vector Databases)
+-Audio & Video Processing
+-C Programming
 
 ## 🎯 Purpose
 These projects were built to strengthen my problem-solving skills, improve my understanding of AI workflows, and apply programming concepts to real-world scenarios.
